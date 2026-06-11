@@ -1,0 +1,16 @@
+{
+  "Pinky": {
+    "likes": [],
+    "goals": [],
+    "facts": [],
+    "notes": []
+  },
+  "core_identity": {
+    "likes": [],
+    "facts": [],
+    "notes": []
+  },
+  "general": {
+    "notes": []
+  }
+}
