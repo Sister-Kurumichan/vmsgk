@@ -36,4 +36,6 @@ This project serves as an exploration of AI-driven user experiences, focusing on
 
 Below is the current full-body sprite used for vmsgk:
 
-![vmsgk](vmsgk/static/avatar/vmsgk.png)
+<p align="center">
+  <img src="vmsgk/static/avatar/vmsgk.png" width="250">
+</p>
